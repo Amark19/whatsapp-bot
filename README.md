@@ -7,4 +7,4 @@
 will not be allowed .to tackle this problem I have used https://ngrok.com/download .)and then the responses,user_name ,msg_status I have stored in mongoDb as cloud database.To deal
 with mongoDb you can use pymongo an python module.<br>So,yeah this was an basic steps I have followed to create this</p>
 <h3>output</h3>
-<img src="assets/1.png">
+<img src="assets/ss.jpeg">
